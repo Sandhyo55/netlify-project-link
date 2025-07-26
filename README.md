@@ -6,4 +6,6 @@ This is a web project hosted on Netlify.
 
 ## 📄 Description
 
-This project was deployed using Netlify. The source code is not currently included in this repository.
+This project was deployed using Netlify.
+keen learner 
+trying to learn coding
